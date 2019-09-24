@@ -1,16 +1,14 @@
 <a id="top"></a>
-# Commercial users of Catch
+# Usuarios comerciales de Catch
 
-As well as [Open Source](opensource-users.md#top) users Catch is widely used within proprietary code bases too.
-Many organisations like to keep this information internal, and that's fine, 
-but if you're more open it would be great if we could list the names of as
-many organisations as possible that use Catch somewhere in their codebase. 
-Enterprise environments often tend to be far more conservative in their tool adoption - 
-and being aware that other companies are using Catch can ease the path in.
+Así como Catch es usado por usuarios [Open Source](opensource-users.md#top), también es muy usado dentro de bases de códigos de propietarios.
+Muchas organizaciones prefieren mantener esta información privada, y eso está muy bien,
+pero si usted es más abierto, sería mejor para nosotros, y así colocar los nombres de la mayor
+cantidad posible de organizaciones que usan Catch entre sus bases de códigos en nuestra lista. 
+Los ambientes de los negocios tienden a ser mucho más conservadores en cuanto a las herramientas que usan - 
+y saber que otras compañías están usando Catch puede ayudarnos en nuestro desarrollo.
 
-So if you are aware of Catch usage in your organisation, and are fairly confident there is no issue with sharing this
-fact then please let us know - either directly, via a PR or 
-[issue](https://github.com/philsquared/Catch/issues), or on the [forums](https://groups.google.com/forum/?fromgroups#!forum/catch-forum).
+Así que, si sabe de el uso de Catch en su organización, y está bastante seguro de que no hay problemas con decírnoslo, entonces por favor háganoslo saber - ya sea directamente, usando un PR, haciendo un [issue](https://github.com/philsquared/Catch/issues), o en los [foros](https://groups.google.com/forum/?fromgroups#!forum/catch-forum).
  
  - Bloomberg
  - NASA
